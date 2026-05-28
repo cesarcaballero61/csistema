@@ -1,0 +1,43 @@
+# === ARCHIVOS TEMPORALES DE VFP ===
+*.bak
+*.err
+*.ftp
+*.log
+*.tmp
+foxuser.*
+Config.fpw
+
+# === ÍNDICES (se regeneran) ===
+*.cdx
+*.idx
+
+# === BINARIOS DE VFP (si usas FoxBin2Prg y solo versionas los .prg/.h) ===
+# Si decidiste ignorar los binarios originales:
+*.scx
+*.sct
+*.vcx
+*.vct
+*.frx
+*.frt
+*.mnx
+*.mnt
+*.lbx
+*.lbt
+
+# === NOTA: Si NO quieres ignorar los binarios (estrategia mixta),
+# comenta o elimina las líneas anteriores ===
+
+# === ARCHIVOS DE PROYECTO COMPILADOS ===
+*.exe
+*.prg~  (backups del editor de VFP)
+
+# === CARPETAS DE SISTEMA ===
+_screen/
+*.dcu
+
+# === ARCHIVOS DE WINDOWS ===
+Thumbs.db
+Desktop.ini
+
+# === ARCHIVOS DE ENTORNO ===
+.env

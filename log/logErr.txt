@@ -1,0 +1,46 @@
+11/11/2025 23:27:19 | CESARCABALLER0 | setestablecimiento_expedicion | Línea:231 | Error:1734 | Property NSURCURSAL is not found.
+12/11/2025 08:57:44 | CESARCABALLER0 | connectdatabase | Línea:110 | Error:12 | Variable 'GNCONEXION' is not found.
+14/11/2025 15:23:40 | CESARCABALLER0 | init | Línea:227 | Error:1734 | Property TLDEBUGMODE is not found.
+14/11/2025 15:24:36 | CESARCABALLER0 | FRMBASE1.BTNACEPTAR.CLICK | Línea:15 | Error:13 | Alias 'CRSUSUARIO' is not found.
+14/11/2025 15:27:27 | CESARCABALLER0 | redraw | Línea:2 | Error:1925 | Unknown member ORIBBON.
+14/11/2025 15:27:32 | CESARCABALLER0 | redraw | Línea:2 | Error:1925 | Unknown member ORIBBON.
+14/11/2025 15:28:59 | CESARCABALLER0 | redraw | Línea:2 | Error:1925 | Unknown member ORIBBON.
+14/11/2025 15:30:54 | CESARCABALLER0 | redraw | Línea:2 | Error:1925 | Unknown member ORIBBON.
+14/11/2025 15:30:55 | CESARCABALLER0 | INICIO | Línea:17 | Error:1734 | Property ORIBBON is not found.
+14/11/2025 15:30:56 | CESARCABALLER0 | INICIO | Línea:18 | Error:1940 | Expression is not valid outside of WITH/ENDWITH.
+14/11/2025 15:30:57 | CESARCABALLER0 | INICIO | Línea:19 | Error:1940 | Expression is not valid outside of WITH/ENDWITH.
+14/11/2025 15:30:57 | CESARCABALLER0 | INICIO | Línea:20 | Error:1940 | Expression is not valid outside of WITH/ENDWITH.
+14/11/2025 15:30:58 | CESARCABALLER0 | INICIO | Línea:21 | Error:1939 | WITH/ENDWITH mismatch.
+14/11/2025 15:34:18 | CESARCABALLER0 | FRMBASE1.BTNACEPTAR.CLICK | Línea:15 | Error:13 | Alias 'CRSUSUARIO' is not found.
+14/11/2025 16:10:52 | CESARCABALLER0 | setclasslib | Línea:270 | Error:24 | Alias name is already in use.
+14/11/2025 16:11:08 | CESARCABALLER0 | setclasslib | Línea:270 | Error:24 | Alias name is already in use.
+14/11/2025 16:15:30 | CESARCABALLER0 | FRMBASE1.BTNACEPTAR.CLICK | Línea:15 | Error:12 | Variable 'LCCLAVE' is not found.
+14/11/2025 16:16:39 | CESARCABALLER0 | FRMBASE1.BTNACEPTAR.CLICK | Línea:31 | Error:1 | File 'warning.prg' does not exist.
+14/11/2025 17:05:29 | CESARCABALLER0 | shutdown | Línea:415 | Error:2060 | RETURN/RETRY statement not allowed in TRY/CATCH.
+17/11/2025 20:08:12 | CESARCABALLER0 | click | Línea:1 | Error:1 | File 'c:\csistema\form_extracto_cliente.scx' does not exist.
+17/11/2025 20:09:01 | CESARCABALLER0 | FRMBASE1._SIDEBAR1.SCROLLBASE.SCROLLCONTAINER._PROCESOS1.BTN_ESTADO_CLIENTE.CLICK | Línea:1 | Error:1 | File 'c:\csistema\form_extracto_cliente.scx' does not exist.
+17/11/2025 20:09:14 | CESARCABALLER0 | FRMBASE1._SIDEBAR1.SCROLLBASE.SCROLLCONTAINER._PROCESOS1.BTN_ESTADO_CLIENTE.CLICK | Línea:1 | Error:1 | File 'c:\csistema\form_extracto_cliente.scx' does not exist.
+17/11/2025 20:12:41 | CESARCABALLER0 | FRMBASE1._AGREGAR_CUOTA | Línea:14 | Error:1581 | Field FVTO does not accept null values.
+21/11/2025 19:02:08 | CESARCABALLER0 | click | Línea:1 | Error:1 | File 'c:\csistema\frm_consulta_cliente.scx' does not exist.
+21/11/2025 19:02:31 | CESARCABALLER0 | FRM_PLANCUOTA.CALCULARPRECIOCUOTASDETALLADO | Línea:11 | Error:11 | Function argument value, type, or count is invalid.
+21/11/2025 19:02:32 | CESARCABALLER0 | FRM_PLANCUOTA.CALCULARPRECIOCUOTASDETALLADO | Línea:14 | Error:11 | Function argument value, type, or count is invalid.
+21/11/2025 19:08:17 | CESARCABALLER0 | click | Línea:1 | Error:1 | File 'c:\csistema\ajuste_inventario.scx' does not exist.
+21/11/2025 19:08:22 | CESARCABALLER0 | FRMBASE1._SIDEBAR1.SCROLLBASE.SCROLLCONTAINER._CONSULTA1.BTN_ESTADO_CUOTA.CLICK | Línea:1 | Error:1 | File 'c:\csistema\frm_consulta_cliente.scx' does not exist.
+21/11/2025 19:08:26 | CESARCABALLER0 | FRMBASE1._SIDEBAR1.SCROLLBASE.SCROLLCONTAINER._CONSULTA1.BTN_ESTADO_CLIENTE.CLICK | Línea:1 | Error:1 | File 'c:\csistema\form_extracto_cliente.scx' does not exist.
+21/11/2025 19:09:18 | CESARCABALLER0 | FRMBASE1._SIDEBAR1.SCROLLBASE.SCROLLCONTAINER._INVENTARIO1.BTN_MOV_INVENTARIO.CLICK | Línea:1 | Error:1 | File 'c:\csistema\ajuste_inventario.scx' does not exist.
+21/11/2025 19:09:39 | CESARCABALLER0 | FRMBASE1._SIDEBAR1.SCROLLBASE.SCROLLCONTAINER._CONSULTA1.BTN_ESTADO_CLIENTE.CLICK | Línea:1 | Error:1 | File 'c:\csistema\form_extracto_cliente.scx' does not exist.
+21/11/2025 19:09:41 | CESARCABALLER0 | FRMBASE1._SIDEBAR1.SCROLLBASE.SCROLLCONTAINER._CONSULTA1.BTN_ESTADO_CUOTA.CLICK | Línea:1 | Error:1 | File 'c:\csistema\frm_consulta_cliente.scx' does not exist.
+21/11/2025 19:13:17 | CESARCABALLER0 | click | Línea:1 | Error:1 | File 'c:\csistema\ajuste_inventario.scx' does not exist.
+21/11/2025 19:43:24 | CESARCABALLER0 | init | Línea:5 | Error:107 | Operator/operand type mismatch.
+21/11/2025 19:57:52 | CESARCABALLER0 | init | Línea:9 | Error:1923 | Object SCREEN is not found.
+22/11/2025 09:57:48 | CESARCABALLER0 | click | Línea:2 | Error:1734 | Property _REGISTRAR_PAGO is not found.
+22/11/2025 10:03:34 | CESARCABALLER0 | click | Línea:2 | Error:1734 | Property _REGISTRAR_PAGO is not found.
+22/11/2025 10:06:59 | CESARCABALLER0 | click | Línea:2 | Error:1734 | Property _REGISTRAR_PAGO is not found.
+22/11/2025 10:17:12 | CESARCABALLER0 | click | Línea:2 | Error:1734 | Property _REGISTRAR_PAGO is not found.
+22/11/2025 10:26:18 | CESARCABALLER0 | FRM_EXTRACTO.BTN_REGISTRAR.CLICK | Línea:2 | Error:1734 | Property _REGISTRAR_PAGO is not found.
+22/11/2025 10:26:19 | CESARCABALLER0 | FRM_EXTRACTO.BTN_REGISTRAR.CLICK | Línea:4 | Error:1734 | Property _CANCELAR_OPERACION_PAGO is not found.
+22/11/2025 10:30:04 | CESARCABALLER0 | FRM_EXTRACTO.BTN_REGISTRAR.CLICK | Línea:2 | Error:1734 | Property _REGISTRAR_PAGO is not found.
+22/11/2025 10:30:06 | CESARCABALLER0 | FRM_EXTRACTO.BTN_REGISTRAR.CLICK | Línea:4 | Error:1734 | Property _CANCELAR_OPERACION_PAGO is not found.
+26/11/2025 19:32:17 | CESARCABALLER0 | FRMBASE1.INIT | Línea:2 | Error:1734 | Property SETFOCUS is not found.
+09/12/2025 15:46:10 | CESARCABALLER0 | FRMARTICULO.UNLOAD | Línea:6 | Error:3 | File is in use.
+11/12/2025 22:51:51 | CESARCABALLER0 | SCREEN.OAPP.CONNECTDATABASE | Línea:0 | Error:1001 | Error al conectar con la base de datos MySQLServidor: 192.168.100.182Base de datos: dbPuerto: 3306Verifique:1. Que el servidor MySQL esté activo2. Los datos de conexión en conexion.ini3. Que tenga instalado MySQL ODBC Driver 5.1

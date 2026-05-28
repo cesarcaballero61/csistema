@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<querybuilder version="8.3">
+<source>
+<database charset="latin1" collation="latin1_swedish_ci">db_jomir</database>
+</source>
+<canvas>
+<table tablename="venta" alias="" left="10" top="21" width="150" height="188" />
+<table tablename="clientes" alias="" left="217" top="85" width="150" height="173" />
+<table tablename="credito" alias="" left="422" top="17" width="150" height="218" />
+<table tablename="pagares" alias="" left="637" top="34" width="150" height="188" />
+<join type = "Inner Join">
+<from tablename = "venta" alias = "">idcliente</from>
+<to tablename = "clientes" alias = "">idClientes</to>
+</join>
+<join type = "Inner Join">
+<from tablename = "venta" alias = "">idVenta</from>
+<to tablename = "credito" alias = "">idventa</to>
+</join>
+<join type = "Inner Join">
+<from tablename = "credito" alias = "">idcredito</from>
+<to tablename = "pagares" alias = "">idcredito</to>
+</join>
+</canvas>
+<grid>
+</grid>
+</querybuilder>

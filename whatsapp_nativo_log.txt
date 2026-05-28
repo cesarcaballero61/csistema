@@ -1,0 +1,135 @@
+03/12/2025 13:15:13 | === Sesión iniciada ===
+03/12/2025 13:15:47 | WhatsApp abierto correctamente: 595987161464
+03/12/2025 13:15:47 | Excepción: RETURN/RETRY statement not allowed in TRY/CATCH.
+03/12/2025 13:17:05 | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+03/12/2025 13:27:20 | === Sesión iniciada ===
+03/12/2025 13:29:33 | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+03/12/2025 13:30:53 | === Sesión iniciada ===
+03/12/2025 13:33:14 | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+03/12/2025 13:35:02 | === Sesión iniciada ===
+03/12/2025 13:36:24 | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+03/12/2025 13:36:58 | === Sesión iniciada ===
+03/12/2025 13:37:30 | === Sesión iniciada ===
+03/12/2025 13:37:35 | WhatsApp abierto correctamente: 595987161464
+03/12/2025 13:37:35 | OK - Cliente: Sr/a. Cesar David Godoy Caballero. | Tel: 595987161464 | Cuota: 005
+03/12/2025 13:37:45 | === Sesión finalizada - Enviados: 1, Errores: 0 ===
+03/12/2025 13:37:47 | === Sesión iniciada ===
+03/12/2025 13:37:48 | WhatsApp abierto correctamente: 595987161464
+03/12/2025 13:37:48 | OK - Cliente: Sr/a. Cesar David Godoy Caballero. | Tel: 595987161464 | Cuota: 005
+03/12/2025 13:38:41 | === Sesión finalizada - Enviados: 1, Errores: 0 ===
+03/12/2025 13:39:09 | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+03/12/2025 13:44:33 | === Sesión iniciada ===
+03/12/2025 13:44:39 | === Sesión iniciada ===
+03/12/2025 13:44:46 | WhatsApp abierto correctamente: 595971728763
+03/12/2025 13:44:46 | OK - Cliente: Sr/a. MARCO ARIEL OJEDA. | Tel: 595971728763 | Cuota: 1/1
+03/12/2025 13:45:12 | === Sesión finalizada - Enviados: 1, Errores: 0 ===
+03/12/2025 13:52:08 | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+04/12/2025 02:00:45 PM | === Sesión iniciada ===
+04/12/2025 02:01:05 PM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+04/12/2025 02:02:55 PM | === Sesión iniciada ===
+04/12/2025 02:03:05 PM | WhatsApp abierto correctamente: 595987161464
+04/12/2025 02:03:05 PM | OK - Cliente: CESAR DAVID GODOY CABALLERO | Tel: 595987161464 | Cuota: 1/18
+04/12/2025 02:03:21 PM | === Sesión finalizada - Enviados: 1, Errores: 0 ===
+04/12/2025 02:03:44 PM | === Sesión iniciada ===
+04/12/2025 02:04:05 PM | WhatsApp abierto correctamente: 595987161464
+04/12/2025 02:04:05 PM | OK - Cliente: CESAR DAVID GODOY CABALLERO | Tel: 595987161464 | Cuota: 1/18
+04/12/2025 02:04:13 PM | === Sesión finalizada - Enviados: 1, Errores: 0 ===
+04/12/2025 02:06:42 PM | === Sesión iniciada ===
+04/12/2025 02:06:45 PM | WhatsApp abierto correctamente: 595987161464
+04/12/2025 02:06:45 PM | OK - Cliente: CESAR DAVID GODOY CABALLERO | Tel: 595987161464 | Cuota: 1/18
+04/12/2025 02:06:59 PM | === Sesión finalizada - Enviados: 1, Errores: 0 ===
+04/12/2025 02:19:26 PM | === Sesión iniciada ===
+04/12/2025 02:19:28 PM | WhatsApp abierto correctamente: 595987161464
+04/12/2025 02:19:28 PM | OK - Cliente: CESAR DAVID GODOY CABALLERO | Tel: 595987161464 | Cuota: 1/18
+04/12/2025 02:19:34 PM | === Sesión finalizada - Enviados: 1, Errores: 0 ===
+04/12/2025 02:39:06 PM | === Sesión iniciada ===
+04/12/2025 02:39:08 PM | WhatsApp abierto correctamente: 595987161464
+04/12/2025 02:39:08 PM | OK - Cliente: CESAR DAVID GODOY CABALLERO | Tel: 595987161464 | Cuota: 1/18
+04/12/2025 02:39:16 PM | === Sesión finalizada - Enviados: 1, Errores: 0 ===
+04/12/2025 02:43:50 PM | === Sesión iniciada ===
+04/12/2025 02:43:54 PM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+04/12/2025 02:43:56 PM | === Sesión iniciada ===
+04/12/2025 02:44:03 PM | WhatsApp abierto correctamente: 595987161464
+04/12/2025 02:44:03 PM | OK - Cliente: CESAR DAVID GODOY CABALLERO | Tel: 595987161464 | Cuota: 2/18
+04/12/2025 03:13:16 PM | === Sesión finalizada - Enviados: 1, Errores: 0 ===
+04/12/2025 03:13:25 PM | === Sesión iniciada ===
+04/12/2025 03:13:26 PM | WhatsApp abierto correctamente: 595987161464
+04/12/2025 03:13:26 PM | OK - Cliente: CESAR DAVID GODOY CABALLERO | Tel: 595987161464 | Cuota: 3/18
+04/12/2025 03:13:31 PM | === Sesión finalizada - Enviados: 1, Errores: 0 ===
+04/12/2025 03:37:50 PM | === Sesión iniciada ===
+04/12/2025 03:37:52 PM | WhatsApp abierto correctamente: 595987161464
+04/12/2025 03:37:52 PM | OK - Cliente: CESAR DAVID GODOY CABALLERO | Tel: 595987161464 | Cuota: 2/18
+04/12/2025 03:37:58 PM | === Sesión finalizada - Enviados: 1, Errores: 0 ===
+04/12/2025 04:48:45 PM | === Sesión iniciada ===
+04/12/2025 04:48:47 PM | WhatsApp abierto correctamente: 595987161464
+04/12/2025 04:48:47 PM | OK - Cliente: CESAR DAVID GODOY CABALLERO | Tel: 595987161464 | Cuota: 1/18
+04/12/2025 04:48:58 PM | === Sesión finalizada - Enviados: 1, Errores: 0 ===
+04/12/2025 04:51:41 PM | === Sesión iniciada ===
+04/12/2025 04:51:43 PM | WhatsApp abierto correctamente: 595987161464
+04/12/2025 04:51:43 PM | OK - Cliente: CESAR DAVID GODOY CABALLERO | Tel: 595987161464 | Cuota: 2/18
+04/12/2025 04:52:21 PM | === Sesión finalizada - Enviados: 1, Errores: 0 ===
+04/12/2025 04:56:35 PM | === Sesión iniciada ===
+04/12/2025 04:58:25 PM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+04/12/2025 05:41:22 PM | === Sesión iniciada ===
+04/12/2025 05:41:23 PM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+04/12/2025 08:14:08 PM | === Sesión iniciada ===
+04/12/2025 08:14:17 PM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+04/12/2025 08:14:34 PM | === Sesión iniciada ===
+04/12/2025 08:14:43 PM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+04/12/2025 08:14:51 PM | === Sesión iniciada ===
+04/12/2025 08:14:53 PM | WhatsApp abierto correctamente: 595987161464
+04/12/2025 08:14:53 PM | OK - Cliente: CESAR DAVID GODOY CABALLERO | Tel: 595987161464 | Cuota: 2/18
+04/12/2025 08:15:22 PM | === Sesión finalizada - Enviados: 1, Errores: 0 ===
+04/12/2025 08:15:26 PM | === Sesión iniciada ===
+04/12/2025 08:15:27 PM | WhatsApp abierto correctamente: 595987161464
+04/12/2025 08:15:27 PM | OK - Cliente: CESAR DAVID GODOY CABALLERO | Tel: 595987161464 | Cuota: 2/18
+04/12/2025 08:15:33 PM | === Sesión finalizada - Enviados: 1, Errores: 0 ===
+04/12/2025 08:16:06 PM | === Sesión iniciada ===
+04/12/2025 08:16:08 PM | WhatsApp abierto correctamente: 595987161464
+04/12/2025 08:16:08 PM | OK - Cliente: CESAR DAVID GODOY CABALLERO | Tel: 595987161464 | Cuota: 2/18
+04/12/2025 08:16:20 PM | === Sesión finalizada - Enviados: 1, Errores: 0 ===
+06/12/2025 09:38:44 AM | === Sesión iniciada ===
+06/12/2025 09:38:44 AM | WhatsApp abierto correctamente: 595987161464
+06/12/2025 09:39:27 AM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+06/12/2025 09:44:11 AM | === Sesión iniciada ===
+06/12/2025 09:44:11 AM | WhatsApp abierto correctamente: 595987161464
+06/12/2025 09:44:35 AM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+06/12/2025 09:45:02 AM | === Sesión iniciada ===
+06/12/2025 09:45:03 AM | WhatsApp abierto correctamente: 595987161464
+06/12/2025 09:45:17 AM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+06/12/2025 09:45:20 AM | === Sesión iniciada ===
+06/12/2025 09:45:20 AM | WhatsApp abierto correctamente: 595987161464
+06/12/2025 09:45:44 AM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+06/12/2025 08:25:27 PM | === Sesión iniciada ===
+06/12/2025 08:25:28 PM | WhatsApp abierto correctamente: 595987161464
+06/12/2025 08:25:42 PM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+06/12/2025 08:26:12 PM | === Sesión iniciada ===
+06/12/2025 08:26:12 PM | WhatsApp abierto correctamente: 595987161464
+06/12/2025 08:26:21 PM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+09/12/2025 04:54:18 PM | === Sesión iniciada ===
+09/12/2025 04:54:20 PM | WhatsApp abierto correctamente: 595987161464
+09/12/2025 04:54:20 PM | OK - Cliente: CESAR GODOY CABALLERO | Tel: 595987161464 | Cuota: 1/4
+09/12/2025 04:54:29 PM | === Sesión finalizada - Enviados: 1, Errores: 0 ===
+09/12/2025 05:05:51 PM | === Sesión iniciada ===
+09/12/2025 05:05:55 PM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+09/12/2025 05:05:58 PM | === Sesión iniciada ===
+09/12/2025 05:06:03 PM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+09/12/2025 05:06:05 PM | === Sesión iniciada ===
+09/12/2025 05:06:06 PM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+09/12/2025 05:06:37 PM | === Sesión iniciada ===
+09/12/2025 05:06:39 PM | WhatsApp abierto correctamente: 595987161464
+09/12/2025 05:06:39 PM | OK - Cliente: CESAR GODOY CABALLERO | Tel: 595987161464 | Cuota: 1/4
+09/12/2025 05:06:58 PM | === Sesión finalizada - Enviados: 1, Errores: 0 ===
+09/12/2025 05:07:05 PM | === Sesión iniciada ===
+09/12/2025 05:07:05 PM | WhatsApp abierto correctamente: 595987161464
+09/12/2025 05:07:13 PM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+09/12/2025 05:07:24 PM | === Sesión iniciada ===
+09/12/2025 05:07:26 PM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+09/12/2025 05:14:10 PM | === Sesión iniciada ===
+09/12/2025 05:14:12 PM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+09/12/2025 05:14:23 PM | === Sesión iniciada ===
+09/12/2025 05:14:25 PM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+09/12/2025 05:23:26 PM | === Sesión iniciada ===
+09/12/2025 05:23:28 PM | === Sesión finalizada - Enviados: 0, Errores: 0 ===
+09/12/2025 05:23:44 PM | === Sesión iniciada ===
+09/12/2025 05:23:45 PM | === Sesión finalizada - Enviados: 0, Errores: 0 ===

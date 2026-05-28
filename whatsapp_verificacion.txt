@@ -1,0 +1,4 @@
++----------------------------------------------------------+
+¦         REPORTE DE VERIFICACIÓN DE WHATSAPP              ¦
++----------------------------------------------------------+
+ WHATSAPP DESKTOP   Estado:  NO INSTALADO-  WHATSAPP WEB   Estado:  DISPONIBLE (navegador detectado)---------------------------------------------------------***  RECOMENDACIONES:- Instale WhatsApp Desktop para mejor experiencia,  o use WhatsApp Web desde el navegador.  Descargar desde: https://www.whatsapp.com/download

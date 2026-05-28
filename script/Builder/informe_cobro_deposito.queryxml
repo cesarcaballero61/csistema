@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<querybuilder version="8.3">
+<source>
+<database charset="utf8" collation="utf8_general_ci">db</database>
+</source>
+<canvas>
+<table tablename="detalle_venta" alias="" left="341" top="45" width="150" height="263" />
+<table tablename="deposito" alias="" left="108" top="49" width="150" height="113" />
+<table tablename="venta" alias="" left="584" top="295" width="150" height="128" />
+<table tablename="cuotas" alias="" left="807" top="90" width="150" height="188" />
+<table tablename="pagos_cuotas" alias="" left="1003" top="145" width="150" height="203" />
+<table tablename="cliente" alias="" left="347" top="342" width="150" height="113" />
+<table tablename="detalle_pagos_cuotas" alias="" left="1211" top="263" width="150" height="233" />
+<join type = "Inner Join">
+<from tablename = "detalle_venta" alias = "">iddeposito</from>
+<to tablename = "deposito" alias = "">iddeposito</to>
+</join>
+<join type = "Inner Join">
+<from tablename = "detalle_venta" alias = "">idVenta</from>
+<to tablename = "venta" alias = "">idVenta</to>
+</join>
+<join type = "Inner Join">
+<from tablename = "cuotas" alias = "">idVenta</from>
+<to tablename = "venta" alias = "">idVenta</to>
+</join>
+<join type = "Inner Join">
+<from tablename = "venta" alias = "">idcliente</from>
+<to tablename = "cliente" alias = "">idcliente</to>
+</join>
+<join type = "Inner Join">
+<from tablename = "pagos_cuotas" alias = "">idcuotas</from>
+<to tablename = "cuotas" alias = "">idcuotas</to>
+</join>
+<join type = "Inner Join">
+<from tablename = "detalle_pagos_cuotas" alias = "">idpago</from>
+<to tablename = "pagos_cuotas" alias = "">idpago</to>
+</join>
+</canvas>
+<grid>
+<column id="1">
+<table tablename="pagos_cuotas"></table>
+<field>idpago</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="2">
+<table tablename="venta"></table>
+<field>idVenta</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="3">
+<table tablename="cuotas"></table>
+<field>idcuotas</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="4">
+<table tablename="pagos_cuotas"></table>
+<field>nro_recibo</field>
+<alias></alias>
+<show>false</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="5">
+<table tablename="detalle_venta"></table>
+<field>iddeposito</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="6">
+<table tablename="deposito"></table>
+<field>deposito</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="7">
+<table tablename="cuotas"></table>
+<field>idcliente</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="8">
+<table tablename="cliente"></table>
+<field>apellido</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="9">
+<table tablename="cliente"></table>
+<field>nombre</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="10">
+<table tablename="cliente"></table>
+<field>ci</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="11">
+<table tablename="cliente"></table>
+<field>telefono</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="12">
+<table tablename="pagos_cuotas"></table>
+<field>fecha</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="13">
+<table tablename="pagos_cuotas"></table>
+<field>total_ac</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="14">
+<table tablename="detalle_pagos_cuotas"></table>
+<field>orden_char</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="15">
+<table tablename="detalle_pagos_cuotas"></table>
+<field>interes</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="16">
+<table tablename="detalle_pagos_cuotas"></table>
+<field>orden</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="17">
+<table tablename="detalle_pagos_cuotas"></table>
+<field>importe</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="18">
+<table tablename="pagos_cuotas"></table>
+<field>total_importe</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+</grid>
+</querybuilder>

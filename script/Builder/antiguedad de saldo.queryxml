@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<querybuilder version="8.3">
+<source>
+<database charset="utf8" collation="utf8_general_ci">db</database>
+</source>
+<canvas>
+<table tablename="venta" alias="" left="10" top="21" width="150" height="113" />
+<table tablename="cliente" alias="" left="415" top="183" width="150" height="113" />
+<table tablename="cuotas" alias="" left="411" top="25" width="150" height="128" />
+<table tablename="cuotas_detalle" alias="" left="635" top="82" width="150" height="113" />
+<join type = "Inner Join">
+<from tablename = "venta" alias = "">idcliente</from>
+<to tablename = "cliente" alias = "">idcliente</to>
+</join>
+<join type = "Inner Join">
+<from tablename = "cuotas" alias = "">idVenta</from>
+<to tablename = "venta" alias = "">idVenta</to>
+</join>
+<join type = "Inner Join">
+<from tablename = "cuotas_detalle" alias = "">idcuotas</from>
+<to tablename = "cuotas" alias = "">idcuotas</to>
+</join>
+</canvas>
+<grid>
+<column id="1">
+<table tablename="venta"></table>
+<field>idVenta</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>true</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="2">
+<table tablename="venta"></table>
+<field>nrofactura</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="3">
+<table tablename="cliente"></table>
+<field>nombre</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="4">
+<table tablename="cliente"></table>
+<field>apellido</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="5">
+<table tablename="cliente"></table>
+<field>ci</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="6">
+<table tablename="cuotas_detalle"></table>
+<field>saldo_cuota</field>
+<alias>SALDO</alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+<column id="7">
+<table tablename="cuotas_detalle"></table>
+<field>fecha_vto</field>
+<alias></alias>
+<show>true</show>
+<sortorder></sortorder>
+<sort></sort>
+<groupby>false</groupby>
+<aggfunct></aggfunct>
+<criteria></criteria>
+<or1></or1>
+<or2></or2>
+<or3></or3>
+<or4></or4>
+</column>
+</grid>
+</querybuilder>
