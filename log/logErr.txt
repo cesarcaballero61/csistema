@@ -44,3 +44,5 @@
 26/11/2025 19:32:17 | CESARCABALLER0 | FRMBASE1.INIT | Línea:2 | Error:1734 | Property SETFOCUS is not found.
 09/12/2025 15:46:10 | CESARCABALLER0 | FRMARTICULO.UNLOAD | Línea:6 | Error:3 | File is in use.
 11/12/2025 22:51:51 | CESARCABALLER0 | SCREEN.OAPP.CONNECTDATABASE | Línea:0 | Error:1001 | Error al conectar con la base de datos MySQLServidor: 192.168.100.182Base de datos: dbPuerto: 3306Verifique:1. Que el servidor MySQL esté activo2. Los datos de conexión en conexion.ini3. Que tenga instalado MySQL ODBC Driver 5.1
+27/07/2026 14:21:45 | CESARCABALLER0 | FRMBASE1.BTNACEPTAR.CLICK | Línea:9 | Error:13 | Alias 'CUR_USUARIO' is not found.
+27/07/2026 14:21:48 | CESARCABALLER0 | FRMBASE1.BTNACEPTAR.CLICK | Línea:11 | Error:52 | No table is open in the current work area.
